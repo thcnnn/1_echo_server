@@ -1,0 +1,14 @@
+{
+  "192.168.1.1": {
+    "name": "John",
+    "password": "00000"
+  },
+  "192.168.1.2": {
+    "name": "John2",
+    "password": "11111"
+  },
+  "127.0.0.1": {
+    "name": "John3",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5"
+  }
+}
